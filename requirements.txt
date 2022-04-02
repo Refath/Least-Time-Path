@@ -1,4 +1,3 @@
-pandas
 jupyter
 numpy
 scipy
@@ -6,4 +5,3 @@ sympy
 vpython
 serial
 matplotlib
-jupyter_contrib_nbextensions
